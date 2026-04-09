@@ -13,5 +13,5 @@ jobs:
       -name: List files
        run: ls -la  
 
-      -name:
+      -name: List ps
        run: ps  
